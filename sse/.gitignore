@@ -1,0 +1,5 @@
+target/
+READ
+
+*.md
+!README.md
